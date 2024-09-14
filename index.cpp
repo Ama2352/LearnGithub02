@@ -6,4 +6,5 @@ int main()
     cout << "Hello everybody!";
     cout << "Hello everyone!";
     cout << "Hi";
+    cout << "Hi hi";
 }
